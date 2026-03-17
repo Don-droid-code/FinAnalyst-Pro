@@ -22,10 +22,10 @@ Analyze financial data and generate key insights, KPIs, and valuations automatic
 ## 📸 Screenshots
 
 ### Main Dashboard
-![C:\Users\othma\OneDrive\Bureau\CLAUDE APP\Github](dashboard.png)
+!C:\Users\othma\OneDrive\Bureau\CLAUDE APP\Github (dashboard.png)
 
 ### Analysis View
-![C:\Users\othma\OneDrive\Bureau\CLAUDE APP\Github](analysis.png)
+!C:\Users\othma\OneDrive\Bureau\CLAUDE APP\Github (analysis.png)
 
 ## 🚀 Installation
 
