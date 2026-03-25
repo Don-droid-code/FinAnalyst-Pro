@@ -49,6 +49,8 @@ Automatically analyze financial data and generate key insights, KPIs, and valuat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/othmane-afif-a846713b0)
 
+“Archived – merged into AnalytiQ-Pro”.
+
 ## 🚀 Installation
 
 ```bash
